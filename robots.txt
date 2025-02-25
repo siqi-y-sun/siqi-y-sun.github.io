@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://siqi-y-sun.github.io/al-folio/sitemap.xml
+User-agent: * Disallow: Sitemap: https://siqi-y-sun.github.io/sitemap.xml
